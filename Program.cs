@@ -16,7 +16,7 @@ void FillArray(int[,] matr, int quatroSize, int count, int circle)
     {
     for (int j = circle-1; j < quatroSize; j++)
     {
-        matr[0,j] = count;
+        matr[(circle-1),j] = count;
         count++;
     }
     for (int i = circle; i < quatroSize; i++)
@@ -44,7 +44,7 @@ Console.Clear();
 
 int rows = 4;
 int columns = 4;
-int startNumber = 10;
+int startNumber = 1;
 int circle = 1;
 
 int [,] array = new int [rows,columns];
