@@ -1,0 +1,15 @@
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\bin\Debug\net6.0\HW62.exe
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\bin\Debug\net6.0\HW62.deps.json
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\bin\Debug\net6.0\HW62.runtimeconfig.json
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\bin\Debug\net6.0\HW62.dll
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\bin\Debug\net6.0\HW62.pdb
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\obj\Debug\net6.0\HW62.csproj.AssemblyReference.cache
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\obj\Debug\net6.0\HW62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\obj\Debug\net6.0\HW62.AssemblyInfoInputs.cache
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\obj\Debug\net6.0\HW62.AssemblyInfo.cs
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\obj\Debug\net6.0\HW62.csproj.CoreCompileInputs.cache
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\obj\Debug\net6.0\HW62.dll
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\obj\Debug\net6.0\refint\HW62.dll
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\obj\Debug\net6.0\HW62.pdb
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\obj\Debug\net6.0\HW62.genruntimeconfig.cache
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\С#\HW62\obj\Debug\net6.0\ref\HW62.dll
